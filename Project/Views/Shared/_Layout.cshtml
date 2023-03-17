@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model Menu
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -43,7 +44,7 @@
                 <div class="col-lg-8">
                     <div class="header__nav">
                         <nav class="header__menu mobile-menu">
-                            <ul>
+                            <!--<ul>
                                 <li class="active"><a asp-controller="Home" asp-action="Index">Homepage</a></li>
                                 <li>
                                     <a asp-controller="Home" asp-action="Categories">Categories <span class="arrow_carrot-down"></span></a>
@@ -58,7 +59,12 @@
                                 </li>
                                 <li><a asp-controller="Home" asp-action="BlogDetails">Our Blog</a></li>
                                 <li><a asp-controller="Home" asp-action="Contacts">Contacts</a></li>
-                            </ul>
+                            </ul>-->
+                           
+                            <partial name="../Menu/GetMenu" model="Model"/>
+
+                            @*<partial name="../Menu/getMenu" model="new Menu()"/>*@
+                            @*@await Html.PartialAsync("~/Views/Menu/getMenu.cshtml")*@
                         </nav>
                     </div>
                 </div>
