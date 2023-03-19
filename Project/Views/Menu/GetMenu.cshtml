@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Project.Models.Menu>
+
+@*<ul>
+    @foreach (var i in Model)
+    {
+        <li><a asp-controller="Home" asp-action="@i.MenuLink">@i.MenuName</a></li>
+    }
+</ul>*@
+
+<ul>
+    <li class="active"><a asp-controller="Home" asp-action="Index">Homepage</a></li>
+    <li>
+        <a asp-controller="Category" asp-action="Index">Categories <span class="arrow_carrot-down"></span></a>
+        <ul class="dropdown">
+            <li><a asp-controller="Category" asp-action="Index">Categories</a></li>
+            <li><a asp-controller="Anime" asp-action="AnimeDetails">Anime Details</a></li>
+            <li><a asp-controller="Anime" asp-action="AnimeWatching">Anime Watching</a></li>
+            <li><a asp-controller="Blog" asp-action="BlogDetails">Blog Details</a></li>
+            <li><a asp-controller ="Home" asp-action="SignUp">Sign Up</a></li>
+            <li><a asp-controller="Home" asp-action="Login">Login</a></li>
+        </ul>
+    </li>
+    <li><a asp-controller="Blog" asp-action="BlogDetails">Our Blog</a></li>
+    <li><a asp-controller="Home" asp-action="Contacts">Contacts</a></li>
+</ul>
