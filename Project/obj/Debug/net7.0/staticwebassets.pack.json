@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\elegant_font.zip",
+      "PackagePath": "staticwebassets\\Source\\elegant_font.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\plyr-master.zip",
+      "PackagePath": "staticwebassets\\Source\\plyr-master.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-5.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\anime\\review-6.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\blog\\details\\comment-3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.png"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-1.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-2.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-3.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-4.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-5.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\live\\live-6.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\normal-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\normal-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\popular\\popular-6.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\recent\\recent-6.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\tv-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\tv-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\tv-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\tv-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\sidebar\\tv-5.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-1.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-2.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-3.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-4.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-5.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\img\\trending\\trend-6.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-6.jpg"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\js\\player.js",
+      "PackagePath": "staticwebassets\\js\\player.js"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_anime-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-details.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_anime-watching.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-watching.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_login.scss",
+      "PackagePath": "staticwebassets\\sass\\_login.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_signup.scss",
+      "PackagePath": "staticwebassets\\sass\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\videos\\1.mp4",
+      "PackagePath": "staticwebassets\\videos\\1.mp4"
+    },
+    {
+      "Id": "C:\\Study\\Lab_NET\\Final-Dot-Net-version2\\Project\\wwwroot\\videos\\anime-watch.jpg",
+      "PackagePath": "staticwebassets\\videos\\anime-watch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

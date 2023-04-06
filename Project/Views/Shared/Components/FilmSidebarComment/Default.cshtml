@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Project.Models.Film>
+
+@foreach (var i in Model)
+{
+    <div class="product__sidebar__comment__item">
+        <div class="product__sidebar__comment__item__pic">
+            <img src="@i.FilmIMG" alt="">
+        </div>
+        <div class="product__sidebar__comment__item__text">
+            <ul>
+                <li>Active</li>
+                <li>Movie</li>
+            </ul>
+            <h5><a href="#">@i.FilmName</a></h5>
+            <span><i class="fa fa-eye"></i>@i.FilmView Viewes</span>
+        </div>
+    </div>
+}
+
+

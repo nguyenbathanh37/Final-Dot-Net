@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Project.Models.Film>
+
+@foreach (var i in Model)
+{
+        <div class="product__sidebar__view__item set-bg mix month week" data-setbg="@i.FilmIMG">
+            <div class="ep">@i.FilmEP</div>
+            <div class="view"><i class="fa fa-eye"></i>@i.FilmView</div>
+            <h5><a href="#">@i.FilmName</a></h5>
+        </div>
+}
+
+
