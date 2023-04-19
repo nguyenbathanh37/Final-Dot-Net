@@ -3,6 +3,7 @@ using Project.Data;
 
 namespace Project.Component
 {
+
     public class FilmTypeViewComponent : ViewComponent
     {
         private readonly ApplicationDbContext _db;
@@ -10,13 +11,33 @@ namespace Project.Component
         {
             _db = db;
         }
-        public async Task<IViewComponentResult> InvokeAsync()
+        /*public async Task<IViewComponentResult> InvokeAsync()
         {
             var v = from t in _db.FilmTypes
                     where t.FilmTypeHide == true
                     orderby t.FilmTypeOrder ascending
                     select t;
             return View(v.ToList());
+        }*/
+
+        public async Task<IViewComponentResult> InvokeAsync(string meta)
+        {
+            if (meta == null)
+            {
+                var v = from t in _db.FilmTypes
+                        where t.FilmTypeHide == true
+                        orderby t.FilmTypeOrder ascending
+                        select t;
+                return View(v.ToList());
+            }
+            else
+            {
+                var v = from t in _db.FilmTypes
+                        where t.FilmTypeHide == true && t.FilmTypeMeta == meta
+                        orderby t.FilmTypeOrder ascending
+                        select t;
+                return View(v.ToList());
+            }
         }
     }
 }

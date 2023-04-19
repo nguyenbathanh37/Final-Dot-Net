@@ -3,6 +3,7 @@
 <ul>
     @foreach (var i in Model)
     {
-        <li><a asp-controller="@i.MenuController" asp-action="@i.MenuAction">@i.MenuName</a></li>
+        @*<li><a asp-controller="@i.MenuController" asp-action="@i.MenuAction">@i.MenuName</a></li>*@
+        <li><a href="/@i.MenuMeta">@i.MenuName</a></li>
     }
 </ul>

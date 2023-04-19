@@ -32,8 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Category/FilmDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRmlsbURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Category/FilmWatch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRmlsbVdhdGNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Home/Index.cshtml]
@@ -42,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Home/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Shared/Components/FilmComment/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmlsbUNvbW1lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Shared/Components/FilmSidebarComment/Default.cshtml]
@@ -54,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Shared/Components/FilmType/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmlsbVR5cGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Shared/Components/FilmWatch/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmlsbVdhdGNoXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Study/Lab_NET/Final-Dot-Net-version2/Project/Views/Shared/Components/Film/Default.cshtml]

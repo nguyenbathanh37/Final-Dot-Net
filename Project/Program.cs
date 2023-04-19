@@ -35,7 +35,33 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+    name: "theloai",
+    pattern: "the-loai/{meta}",
+    defaults: new { controller = "Category", action = "Index" });
+
+app.MapControllerRoute(
+    name: "theloaichitiet",
+    pattern: "the-loai/{meta}/{id}",
+    defaults: new { controller = "Category", action = "FilmDetails" });
+
+app.MapControllerRoute(
+    name: "theloaichitiet",
+    pattern: "the-loai/{meta}/{id}/view",
+    defaults: new { controller = "Category", action = "FilmWatch" });
+
+app.MapControllerRoute(
+    name: "trangchu",
+    pattern: "trang-chu/",
+    defaults: new { controller = "Home", action = "Index" });
+
+app.MapControllerRoute(
+    name: "lienhe",
+    pattern: "lien-he/",
+    defaults: new { controller = "Contact", action = "Index" });
+
+app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 app.Run();
